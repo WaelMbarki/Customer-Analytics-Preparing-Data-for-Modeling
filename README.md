@@ -1,4 +1,4 @@
-# Investigating Netflix Movies
+# Customer Analytics Preparing Data for Modeling
 
 ## Table of Contents
 
