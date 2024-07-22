@@ -12,7 +12,7 @@
  
 ### Project Overview
 
-This project aims to prepare a dataset for modeling. This dataset will eventually be used to predict whether their students are looking for a new job or not.
+This project aims to prepare a dataset for modeling. This dataset will eventually be used to predict whether students are looking for a new job or not.
 
 ### Data source 
 
